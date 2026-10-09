@@ -44,19 +44,49 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
+
+
+
+
+
+<img width="938" height="610" alt="image" src="https://github.com/user-attachments/assets/2b49bca3-0f3b-46fb-8db7-20f00d4aff45" />
+<img width="964" height="599" alt="{2C15BFC7-6835-4BBF-963A-B6E361A47680}" src="https://github.com/user-attachments/assets/af402ef7-374e-4468-b6c3-9cc9d76129f8" />
+
+
  
 
 
 b.  KCL:
+
+
+
+
+
+<img width="1064" height="613" alt="{8906F1D8-A8B7-46C2-B08E-3E2AB2D67762}" src="https://github.com/user-attachments/assets/7c1ae238-4636-42f5-9895-046ede875128" />
+<img width="1097" height="614" alt="{5426AE20-C80E-46AD-A73E-EC25FABA99C9}" src="https://github.com/user-attachments/assets/066a6847-5078-4ed6-b664-480b6335bc18" />
+
  
 
 Calculation:
 
 a.   KVL:
+
+
+
+
+
  
+<img width="1024" height="1536" alt="KVL Verification Notebook Page" src="https://github.com/user-attachments/assets/526db4bf-3c13-4ea3-b8a9-c1c42f1d0964" />
 
 
 b.  KCL:
+
+
+
+
+
+<img width="1047" height="1502" alt="Handwritten KCL Verification Notes" src="https://github.com/user-attachments/assets/1e03e6f3-1fc6-49da-85ed-09edabd1b5f7" />
+
 
 
 
@@ -64,10 +94,21 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
+
+
+
+
+<img width="380" height="240" alt="{7405E0C3-D813-4083-BF3B-09F654A268F5}" src="https://github.com/user-attachments/assets/008c7b5c-773b-4ab5-a181-7b7815424511" />
+
  
 
 
 b.  KCL:
+
+
+
+<img width="393" height="269" alt="{605DF69D-65B9-42C5-B467-049EF08C1152}" src="https://github.com/user-attachments/assets/f1a791d5-e677-45ce-8d54-a9fb739be37e" />
+
 
 
 
